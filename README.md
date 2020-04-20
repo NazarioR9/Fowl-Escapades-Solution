@@ -8,7 +8,7 @@ This competition was about classifying Southern African birds based on their cal
 ## Repository structure
 
 |----Data  
-|-----|---Train.zip  
+|-  -|---Train.zip  
 |-----|---Test.zip  
 |-----|---Train.csv  
 |-----|---Test.csv  
@@ -17,7 +17,7 @@ This competition was about classifying Southern African birds based on their cal
 |-----|---Fowl_Escapades.ipynb  
 |----Readme.md  
 
-Note that, I didn't uploaded all the files into 'Data' since some are very large.  
+Note that, I didn't uploaded all the files into 'Data' since some are very larges.  
 
 ## Pending Final Leaderbord
 
