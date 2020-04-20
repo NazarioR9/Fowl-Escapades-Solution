@@ -8,7 +8,7 @@ This competition was about classifying Southern African birds based on their cal
 ## Repository structure
 
 |----Data  
-|			|---Train.zip  
+|-----|---Train.zip  
 |-----|---Test.zip  
 |-----|---Train.csv  
 |-----|---Test.csv  
