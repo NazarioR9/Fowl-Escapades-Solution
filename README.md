@@ -19,7 +19,7 @@ This competition was about classifying Southern African birds based on their cal
 
 Note that, I didn't uploaded all the files into 'Data' since some are very larges.  
 
-## Pending Final Leaderbord
+## Pending Final Leaderboard
 
 Position: 3rd / 26  
 Score: 0.7299 (LogLoss) 
