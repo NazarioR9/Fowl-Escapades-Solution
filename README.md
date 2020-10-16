@@ -21,7 +21,7 @@ Note that, I didn't uploaded all the files into 'Data' since some are very large
 
 ## Pending Final Leaderboard
 
-Position: 3rd / 26  
+Position: 2nd / 26  
 Score: 0.7299 (LogLoss) 
 
 ## Authors
